@@ -16,7 +16,7 @@
 
 ## Repository Path
 
-`JavaScript/Easy/0001-two-sum/solution.js`
+`JavaScript/Easy/0001-two-sum/attempts/1140152422/solution.js`
 
 ## Synced By
 
