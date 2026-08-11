@@ -7,10 +7,23 @@
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **0** |
-| 🟢 Easy | 0 |
+| **Total Solved** | **1** |
+| 🟢 Easy | 1 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
+
+## 💻 Languages Breakdown
+
+| Language | Solutions |
+|---|---|
+| Java | 1 |
+
+## 🏷️ Top Topics
+
+| Topic | Solved |
+|---|---|
+| Array | 1 |
+| Hash Table | 1 |
 
 ---
 *Built with ❤️ by [LCSync](https://github.com/sriram1224/LCSync)*
