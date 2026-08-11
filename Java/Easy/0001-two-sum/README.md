@@ -11,8 +11,8 @@
 |---|---|
 | Language | Java |
 | Runtime | 2 ms |
-| Memory | 47.00 MB |
-| Submitted | 2026-08-11 |
+| Memory | 47.26 MB |
+| Submitted | 2026-06-06 |
 
 ## Repository Path
 
