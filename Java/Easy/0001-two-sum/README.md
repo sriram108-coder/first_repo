@@ -10,9 +10,9 @@
 | Metric | Value |
 |---|---|
 | Language | Java |
-| Runtime | 67 ms |
-| Memory | 45.02 MB |
-| Submitted | 2025-03-10 |
+| Runtime | 45 ms |
+| Memory | 45.30 MB |
+| Submitted | 2025-01-07 |
 
 ## Repository Path
 
